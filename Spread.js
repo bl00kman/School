@@ -16,6 +16,10 @@
   /** remove a random element in the items array
 and return a new array without that item. */
 
+//Slice and Dice
+/** remove a random element in the items array
+and return a new array without that item. */
+
 function removeRandom(items) {
 
 }
