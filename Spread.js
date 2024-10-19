@@ -4,6 +4,8 @@
       return num % 2 === 0
     });
   }*/
+/* Write an ES2015 Version */
 
-  const filterOutOdds = () => args.filter(v => v % 2 === 0)
-
+  const filterOutOdds = () => args.filter(v => v % 2 === 0);
+  
+  const merge = () =>
