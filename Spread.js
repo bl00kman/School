@@ -3,9 +3,13 @@
     return nums.filter(function(num) {
       return num % 2 === 0
     });
-  }*/
-/* Write an ES2015 Version */
+  }
+ Write an ES2015 Version */
 
   const filterOutOdds = () => args.filter(v => v % 2 === 0);
   
-  const merge = () =>
+  const findMin = () => Math.min()
+
+  const mergeObjects = () => ({})
+ 
+  const doubleAndReturnArgs = () => [ (v => v *2)]
